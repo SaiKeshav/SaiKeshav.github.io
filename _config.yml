@@ -77,7 +77,7 @@ analytics:
 # Site Author
 author:
   name             : "Kolluru Sai Keshav"
-  avatar           : "images/pp.jpeg"
+  avatar           : images/pp.jpeg
   bio              : "PhD student at IIT Delhi"
   location         : "New Delhi, India"
   employer         :
