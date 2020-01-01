@@ -11,9 +11,9 @@ title                    : "Keshav"
 title_separator          : "-"
 name                     : &name "Keshav"
 description              : &description "Research Scholar at IIT Delhi"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://saikeshav.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "SaiKeshav/SaiKeshav.github.io"
 teaser                   : "pp.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
