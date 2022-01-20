@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Indian Insitute of Technology (IIT), Delhi. 
+I am Keshav, a PhD candidate at Indian Insitute of Technology (IIT), Delhi. 
 I work in the broad area of Natural Language Processing (NLP) and Deep Learning.
 I am fortunate to be jointly advised by Prof. Mausam (HoD, School of AI, IIT Delhi) and Prof. Soumen Chakrabarti (IIT Bombay). 
 In my PhD research, I have focussed on building the next generation Open Information Extraction (OpenIE) systems. 
