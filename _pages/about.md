@@ -18,5 +18,5 @@ I am also excited about adapting and building NLP technology for Indian language
 I had the chance to work as a Visiting Student Researcher at Google Research (Spring, 2020), Reserach Intern at IBM Research (Summer, 2017) and Data Science intern at Microsoft Bing (Summer, 2016)
 I completed my BTech from IIT Bhubaneswar.
 
-I am currently looking for research jobs in industry. 
+I am currently in the job market. 
 Please feel free to reach out to me over email: keshav.kolluru@gmail.com, if you have any exciting opportunities!
