@@ -31,9 +31,9 @@ I am always on the lookout for exciting opportunitites.
 
 # Publications
 
-1. [IMoJIE: Iterative Memory-Based Joint Open Information Extraction](https://arxiv.org/abs/2005.08178)\ 
+1. [IMoJIE: Iterative Memory-Based Joint Open Information Extraction](https://arxiv.org/abs/2005.08178)\
 _**Keshav Kolluru**, Samarth Aggarwal, Vipul Rathore, Mausam and Soumen Chakrabarti_\
-Association for Computational Linguistics (ACL), 2020.\  
+Association for Computational Linguistics (ACL), 2020.\
 [Paper](https://arxiv.org/abs/2005.08178) | [Code](https://github.com/dair-iitd/imojie) 
 
 
