@@ -31,32 +31,32 @@ I am always on the lookout for exciting opportunitites.
 
 # Publications
 
-1. (IMoJIE: Iterative Memory-Based Joint Open Information Extraction)[https://arxiv.org/abs/2005.08178] 
-_**Keshav Kolluru**, Samarth Aggarwal, Vipul Rathore, Mausam and Soumen Chakrabarti_
-Association for Computational Linguistics (ACL), 2020.  
-(Paper)[https://arxiv.org/abs/2005.08178] | (Code)[https://github.com/dair-iitd/imojie] 
+1. [IMoJIE: Iterative Memory-Based Joint Open Information Extraction](https://arxiv.org/abs/2005.08178)\ 
+_**Keshav Kolluru**, Samarth Aggarwal, Vipul Rathore, Mausam and Soumen Chakrabarti_\
+Association for Computational Linguistics (ACL), 2020.\  
+[Paper](https://arxiv.org/abs/2005.08178) | [Code](https://github.com/dair-iitd/imojie) 
 
 
-2. (OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction)[https://arxiv.org/abs/2010.03147]
-_**Keshav Kolluru**, Vaibhav Adlakha, Samarth Aggarwal, Mausam and Soumen Chakrabarti_
-Empirical Methods in Natural Language Processing (EMNLP), 2020.
-(Paper)[https://arxiv.org/abs/2010.03147] | (Code)[https://github.com/dair-iitd/openie6]
+2. [OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction](https://arxiv.org/abs/2010.03147)\
+_**Keshav Kolluru**, Vaibhav Adlakha, Samarth Aggarwal, Mausam and Soumen Chakrabarti_\
+Empirical Methods in Natural Language Processing (EMNLP), 2020.\
+[Paper](https://arxiv.org/abs/2010.03147) | [Code](https://github.com/dair-iitd/openie6)
 
-3. (Multilingual Fact Linking)[https://arxiv.org/abs/2109.14364]
-_**Keshav Kolluru**, Martin Rezk, Pat Verga, William W. Cohen, and Partha Talukdar_
-Automated Knowledge Base Construction (AKBC), 2021.
-(Paper)[https://arxiv.org/abs/2109.14364] | (Code)[https://github.com/SaiKeshav/mfl]
+3. [Multilingual Fact Linking](https://arxiv.org/abs/2109.14364)\
+_**Keshav Kolluru**, Martin Rezk, Pat Verga, William W. Cohen, and Partha Talukdar_\
+Automated Knowledge Base Construction (AKBC), 2021.\
+[Paper](https://arxiv.org/abs/2109.14364) | [Code](https://github.com/SaiKeshav/mfl)
 
-4. Consistent Crosslingual Data Transfer for Open Information Extraction
-_**Keshav Kolluru**, Muqeeth Mohammad, Shubham Mittal, Mausam and Soumen Chakrabarti_
+4. Consistent Crosslingual Data Transfer for Open Information Extraction\
+_**Keshav Kolluru**, Muqeeth Mohammad, Shubham Mittal, Soumen Chakrabarti and Mausam_\
 Under submission
 
-5. Proper Noun Compound Interpretation 
-_**Keshav Kolluru**, Gabriel Stanovsky, and Mausam_
+5. Proper Noun Compound Interpretation\
+_**Keshav Kolluru**, Gabriel Stanovsky, and Mausam_\
 Under preparation.
 
-6. CEAR: Cross Entity Aware Reranking for Open Knowledge Base Completion
-_**Keshav Kolluru**, Mayank Kumar, Yatin Nandwani, Parag Singla and Mausam_
+6. CEAR: Cross Entity Aware Reranking for Open Knowledge Base Completion\
+_**Keshav Kolluru**, Mayank Kumar, Yatin Nandwani, Parag Singla and Mausam_\
 Under preparation.
 
 
