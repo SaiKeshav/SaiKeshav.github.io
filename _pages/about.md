@@ -10,7 +10,7 @@ redirect_from:
 
 I am Keshav, a PhD candidate at Indian Insitute of Technology (IIT), Delhi. 
 I work in the broad area of Natural Language Processing (NLP) and Deep Learning.
-I am fortunate to be jointly advised by Prof. Mausam (HoD, School of AI, IIT Delhi) and Prof. Soumen Chakrabarti (IIT Bombay). 
+I am fortunate to be jointly advised by [Prof. Mausam](https://www.cse.iitd.ac.in/~mausam/) (HoD, School of AI, IIT Delhi) and [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/) (IIT Bombay). 
 In my PhD research (published at ACL and EMNLP), I worked on building cutting-edge Open Information Extraction (OpenIE) systems. 
 OpenIE has wide industry-use, being a leading technique for constructing large-scale KBs across a vareity of domains, ranging from finance to medicine.
 Our open-sourced models have been downloaded more than 5K+ times.
@@ -21,9 +21,9 @@ In the current scenario, removing barriers of entry is critical for larger secti
 Language remains an important barrier in an Indian context which is known for its many tongues. 
 I am interested in using my knowledge of NLP to play a role in bridging this gap.
 
-I had the chance to kick-start my contributions towards this goal as a Visiting Student Researcher at Google Research (Spring, 2020), where I worked with Partha Talukdar, Martin Rezk, Pat Verga and William Cohen on linking Indian text to Knowledge Bases that are predominantly English centric. 
+I had the chance to kick-start my contributions towards this goal as a Visiting Student Researcher at Google Research (Spring, 2020), where I worked with [Partha Talukdar](https://talukdar.net/), (Martin Rezk)[https://www.linkedin.com/in/mart%C3%ADn-rezk-0a89977/?trk=public_profile_publications_contributor_image], [Pat Verga](https://twitter.com/pat_verga) and [William Cohen](http://www.cs.cmu.edu/~wcohen/) on linking Indian text to Knowledge Bases that are predominantly English centric. 
 
-During my BTech days at IIT Bhubaneswar, I had the chance to work with Prof Chitta Baral (Arizona State University), Prof Partha Roop (University of Auckland) and Prof Manoranjan  (IIT Bhubhaneswar) on a wide variety of interesting research problems in Computer Vision, Synchornous Programs and Software Testing. I also had the opportunity to work as a Research Intern at IBM Research (Summer, 2017) and Data Science intern at Microsoft Bing (Summer, 2016).
+During my BTech days at IIT Bhubaneswar, I had the chance to work with [Prof Chitta Baral](http://www.public.asu.edu/~cbaral/) (Arizona State University), [Prof Partha Roop](https://unidirectory.auckland.ac.nz/profile/p-roop) (University of Auckland) and (Prof Manoranjan)[https://scholar.google.co.in/citations?user=LmNrD7AAAAAJ&hl=en]  (IIT Bhubhaneswar) on a wide variety of interesting research problems in Computer Vision, Synchornous Programs and Software Testing. I also had the opportunity to work as a Research Intern at IBM Research (Summer, 2017) and Data Science intern at Microsoft Bing (Summer, 2016).
 
 I am currently on the job market. 
 Please feel free to reach out to me over email: [keshav.kolluru@gmail.com](mailto:keshav.kolluru@gmail.com) 
