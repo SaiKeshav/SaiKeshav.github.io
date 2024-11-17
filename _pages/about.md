@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+_Notice (17th Nov 2024): The site is no longer being maintained. Please refer to my LinkedIn https://www.linkedin.com/in/keshav-kolluru-988869104/ for further updates._
+
 I am Keshav, a PhD candidate at Indian Insitute of Technology (IIT), Delhi. 
 I work in the broad area of Natural Language Processing (NLP) and Deep Learning.
 I am fortunate to be jointly advised by [Prof. Mausam](https://www.cse.iitd.ac.in/~mausam/) (HoD, School of AI, IIT Delhi) and [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/) (IIT Bombay). 
