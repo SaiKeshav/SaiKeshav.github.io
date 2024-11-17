@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_Notice (17th Nov 2024): The site is no longer being maintained. Please refer to my LinkedIn https://www.linkedin.com/in/keshav-kolluru-988869104/ for further updates._
+_Notice (17th Nov 2024): Thank you for visiting! To stay updated with my latest professional endeavours and connect directly, I invite you to find me on LinkedIn ([link](https://www.linkedin.com/in/keshav-kolluru-988869104/)), where I maintain an active presence. In the grand tradition of personal websites everywhere, this one has gracefully retired from active duty._
 
 I am Keshav, a PhD candidate at Indian Insitute of Technology (IIT), Delhi. 
 I work in the broad area of Natural Language Processing (NLP) and Deep Learning.
